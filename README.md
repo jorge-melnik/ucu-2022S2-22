@@ -2,3 +2,5 @@
 Profesor: Jorge Melnik  
 ## Estudiantes  
 Emilio Rodriguez
+Juan Diego Jacques
+
